@@ -1,0 +1,22 @@
+
+
+.env
+
+Системный мусор Python
+
+pycache/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+Логи и отчеты операций (чтобы не захламлять репозиторий)
+
+sudoku_case_.md
+sudoku_report_.md
+
+Системные файлы IDE
+
+.idea/
+.vscode/
+.DS_Store
