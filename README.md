@@ -32,7 +32,7 @@ cd sudoku-theater
 
 python -m venv venv
 source venv/bin/activate  # Для Linux/macOS
-# venv\Scripts\activate   # Для Windows
+venv\Scripts\activate   # Для Windows
 
 
 Установите зависимости:
